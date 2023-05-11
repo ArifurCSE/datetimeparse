@@ -1,0 +1,15 @@
+D:\DotNet\DateTImeParse\DateTImeParse\bin\Debug\net6.0\DateTImeParse.exe
+D:\DotNet\DateTImeParse\DateTImeParse\bin\Debug\net6.0\DateTImeParse.deps.json
+D:\DotNet\DateTImeParse\DateTImeParse\bin\Debug\net6.0\DateTImeParse.runtimeconfig.json
+D:\DotNet\DateTImeParse\DateTImeParse\bin\Debug\net6.0\DateTImeParse.dll
+D:\DotNet\DateTImeParse\DateTImeParse\bin\Debug\net6.0\DateTImeParse.pdb
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.csproj.AssemblyReference.cache
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.AssemblyInfoInputs.cache
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.AssemblyInfo.cs
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.csproj.CoreCompileInputs.cache
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.dll
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\refint\DateTImeParse.dll
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.pdb
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\DateTImeParse.genruntimeconfig.cache
+D:\DotNet\DateTImeParse\DateTImeParse\obj\Debug\net6.0\ref\DateTImeParse.dll
