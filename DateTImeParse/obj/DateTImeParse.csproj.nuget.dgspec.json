@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\DateTImeParse\\DateTImeParse\\DateTImeParse.csproj": {}
+    "D:\\Development_Project\\datetimeparse\\DateTImeParse\\DateTImeParse.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\DateTImeParse\\DateTImeParse\\DateTImeParse.csproj": {
+    "D:\\Development_Project\\datetimeparse\\DateTImeParse\\DateTImeParse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\DateTImeParse\\DateTImeParse\\DateTImeParse.csproj",
+        "projectUniqueName": "D:\\Development_Project\\datetimeparse\\DateTImeParse\\DateTImeParse.csproj",
         "projectName": "DateTImeParse",
-        "projectPath": "D:\\DotNet\\DateTImeParse\\DateTImeParse\\DateTImeParse.csproj",
+        "projectPath": "D:\\Development_Project\\datetimeparse\\DateTImeParse\\DateTImeParse.csproj",
         "packagesPath": "C:\\Users\\Arifur\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\DateTImeParse\\DateTImeParse\\obj\\",
+        "outputPath": "D:\\Development_Project\\datetimeparse\\DateTImeParse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arifur\\AppData\\Roaming\\NuGet\\NuGet.Config",

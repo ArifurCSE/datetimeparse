@@ -33,7 +33,16 @@ Console.WriteLine("Hello, World!");
 List<DateTime> dateTime = ParseISO8601String();
 var l =dateTime.GroupBy(e => e.Day);
 
-
+foreach (var item in l)
+{
+    Console.WriteLine(item.Key);
+    Console.WriteLine($"Total Count=> {item.Count()}");
+    foreach (var item2 in item)
+    {
+        Console.WriteLine(item2);
+        Console.WriteLine(item2.Hour);
+    }
+}
 //Console.WriteLine(dateTime.Hour);
 //Console.WriteLine(dateTime.Day);
 //Console.WriteLine(dateTime.Date);
